@@ -1,3 +1,9 @@
+nvidia-graphics-drivers-340 (340.108-0ubuntu8) UNRELEASED; urgency=medium
+
+  * 
+
+ -- H Buus <mythtv@hbuus.com>  Sun, 15 May 2022 17:59:55 -0400
+
 nvidia-graphics-drivers-340 (340.108-0ubuntu7) hirsute; urgency=medium
 
   * debian/templates/dkms_nvidia.conf.in:
